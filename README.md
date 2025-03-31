@@ -1,4 +1,4 @@
-## Hi there 👋# 👋 Hi, I'm [Your Name]!
+## Hi there 👋# 👋 Hi, I'm Mino!
 🔹 Cybersecurity Enthusiast | Software Developer | Open-Source Contributor  
 
 💡 **About Me:**  
