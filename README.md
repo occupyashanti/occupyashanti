@@ -18,6 +18,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=occupyashanti&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=occupyashanti&layout=compact&theme=radical)
 
+
+### 🔗 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
 ---
 
 
