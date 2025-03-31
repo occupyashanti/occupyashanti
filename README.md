@@ -1,4 +1,4 @@
-## Hi there 👋# 👋 Hi, I'm Mino!
+## Hi there 👋 I'm Mino!
 🔹 Cybersecurity Enthusiast | Software Developer | Open-Source Contributor  
 
 💡 **About Me:**  
