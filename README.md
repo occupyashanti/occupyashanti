@@ -2,7 +2,7 @@
 🔹 Cybersecurity Enthusiast | Software Developer | Open-Source Contributor  
 
 💡 **About Me:**  
-- 🔭 I’m currently working on **[QuickDrop](https://github.com/occupyashanti/QuickDrop)**
+- 🔭 I’m currently working on **[Clustr](https://github.com/occupyashanti/Clustr)**
 - 🌱 Learning **Django, React, and Bash Scripting**
 - 💬 Ask me about **Cybersecurity, Web Development, or Python**
 - ⚡ Fun fact: **I love hacking CTF challenges!**
