@@ -11,7 +11,7 @@ Passionate about building secure systems and automating offensive security workf
 ---  
 
 ## **Current Focus**  
--  **Building:** [Clustr](https://github.com/occupyashanti/Clustr) – *Automated Attack Surface Mapping*  
+-  **Building:** [Clustr](https://github.com/occupyashanti/Clustr) – *Next level compression Algorithm*  
 -  **Learning:** Django, React, & Advanced Bash Automation  
 -  **Interests:** Web App Security, Cloud Pentesting, DevSecOps  
 
@@ -46,8 +46,8 @@ Passionate about building secure systems and automating offensive security workf
 ## 📫 **Let’s Connect**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-ohare-737606273)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)]([https://x.com/minosdailyszn])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:occupyashanti@gmail.com)  
 
 ---  
 
