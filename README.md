@@ -1,22 +1,22 @@
-Here’s a **cleaner, more professional** version of your GitHub profile README while keeping your personality intact:  
+
 
 ---
 
-# 👋 Hi, I’m **Kevin O'Hare** (Mino)  
-### 🔐 **Security Engineer | Full-Stack Developer | Open-Source Contributor**  
+# Hi, I’m **Kevin O'Hare** (Mino)  
+###  **Security Engineer | Full-Stack Developer | Open-Source Contributor**  
 
 Passionate about building secure systems and automating offensive security workflows.  
 
 ---  
 
-## 🛠️ **Current Focus**  
-- 🔭 **Building:** [Clustr](https://github.com/occupyashanti/Clustr) – *Automated Attack Surface Mapping*  
-- 🌱 **Learning:** Django, React, & Advanced Bash Automation  
-- 🎯 **Interests:** Web App Security, Cloud Pentesting, DevSecOps  
+## **Current Focus**  
+-  **Building:** [Clustr](https://github.com/occupyashanti/Clustr) – *Automated Attack Surface Mapping*  
+-  **Learning:** Django, React, & Advanced Bash Automation  
+-  **Interests:** Web App Security, Cloud Pentesting, DevSecOps  
 
 ---  
 
-## 💻 **Technical Stack**  
+##  **Technical Stack**  
 
 ### **Security & Offensive Tools**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -50,7 +50,7 @@ Passionate about building secure systems and automating offensive security workf
 
 ---  
 
-### ⚡ **Fun Fact:**  
+###  **Fun Fact:**  
 > *"When I’m not hacking CTFs, I’m probably automating something that shouldn’t be automated."*  
 
 ---  
