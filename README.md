@@ -36,14 +36,14 @@ Passionate about building secure systems and automating offensive security workf
 
 ---  
 
-## 📈 **GitHub Analytics**  
+## **GitHub Analytics**  
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=occupyashanti&show_icons=true&hide_border=true&theme=github_dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=occupyashanti&layout=compact&hide_border=true&theme=github_dark) |  
 |--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|  
 
 ---  
 
-## 📫 **Let’s Connect**  
+##  **Let’s Connect**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-ohare-737606273)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)]([https://x.com/minosdailyszn])
@@ -56,10 +56,10 @@ Passionate about building secure systems and automating offensive security workf
 
 ---  
 
-### 🔎 **Looking For?**  
-- 🚀 **Collaborations** on security tools  
-- 💡 **Advice** on web app pentesting  
-- 📢 **Speaking opportunities** about offensive security  
+###  **Looking For?**  
+-  **Collaborations** on security tools  
+-  **Advice** on web app pentesting  
+-  **Speaking opportunities** about offensive security  
 
 ---  
 
