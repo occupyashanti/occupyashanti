@@ -4,6 +4,7 @@
 
 # Hi, I’m **Kevin O'Hare** (Mino)  
 (aka occupyashanti)
+![Pluto Logo](./Pluto.jpeg)
 ###  **Security Engineer | Full-Stack Developer | Open-Source Contributor**  
 
 Passionate about building secure systems and automating offensive security workflows.  
