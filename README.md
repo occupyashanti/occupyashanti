@@ -4,9 +4,8 @@
 
 # Hi, I’m **Kevin O'Hare** (Mino)  
 (aka occupyashanti)
-<p align="center">
-  <img src="./Pluto.jpeg" width="30%" />
-</p>
+![Pluto](./Pluto.jpeg)  
+*My Guy Pluto in all his glory.*
 ###  **Security Engineer | Full-Stack Developer | Open-Source Contributor**  
 
 Passionate about building secure systems and automating offensive security workflows.  
