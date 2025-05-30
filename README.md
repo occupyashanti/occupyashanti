@@ -18,22 +18,6 @@ Passionate about building secure systems and automating offensive security workf
 
 ---  
 
-##  **Technical Stack**  
-
-### **Security & Offensive Tools**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-FF6600?style=flat-square&logo=gnu&logoColor=white)  
-
-### **Web Development**  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-
-### **Infrastructure**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)  
 
 ---  
 ## **Projects**
@@ -45,7 +29,7 @@ Passionate about building secure systems and automating offensive security workf
 | [QuickDrop](https://github.com/occupyashanti/QuickDrop) | Crowdsourced delivery platform with real-time tracking. | Django, React, PostgreSQL |
 | [Hermes](https://github.com/occupyashanti/Hermes) | Security model using RL, pattern recognition, and computer vision. | Python, OpenCV, PyTorch |
 | [Juggernaut](https://github.com/occupyashanti/Juggernaut) | Password cracking tool with AI-guided attacks and multi-arch support. | C++, Python, CUDA |
-| [WiFi Portal](https://github.com/occupyashanti/WiFi-Portal) | Captive portal with Safaricom STK push integration and voucher system. | Flask, SQLite, Daraja API |
+| [WiFi Portal](https://github.com/occupyashanti/SafariFi-) | Captive portal with Safaricom STK push integration and voucher system. | Flask, SQLite, Daraja API |
 
 ---
 
