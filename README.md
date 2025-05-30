@@ -1,5 +1,4 @@
 
----
 
 # Hi, I’m **Kevin O'Hare** (Mino)
 
@@ -36,7 +35,8 @@ Passionate about building secure systems and automating offensive security workf
 ---
 
 ## **GitHub Analytics**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=occupyashanti&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=occupyashanti\&show_icons=true\&hide_border=true\&theme=github_dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=occupyashanti\&layout=compact\&hide_border=true\&theme=github_dark) |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ---
@@ -56,13 +56,6 @@ Passionate about building secure systems and automating offensive security workf
 ![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Certificate-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-Proficient-orange?style=for-the-badge\&logo=burp-suite\&logoColor=white)
 
----
-## Tech Skills  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ---
 
 ## **Let’s Connect**
@@ -92,5 +85,4 @@ Passionate about building secure systems and automating offensive security workf
 ---
 
 ---
-
 
