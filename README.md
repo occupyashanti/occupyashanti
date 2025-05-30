@@ -1,4 +1,3 @@
-Here is your full README with the **Contribution Streak** and **Certifications & Achievements** sections integrated cleanly and professionally:
 
 ---
 
@@ -88,4 +87,4 @@ Passionate about building secure systems and automating offensive security workf
 
 ---
 
-If you want me to customize badges or the streak theme or add any additional sections, just ask!
+
