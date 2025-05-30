@@ -4,7 +4,7 @@
 
 # Hi, I’m **Kevin O'Hare** (Mino)  
 (aka occupyashanti)
-![Atom](./Atom.jpeg)  
+![Atom](./Get.jpeg)  
 *My Guy Pluto in all his glory.*
 ###  **Security Engineer | Full-Stack Developer | Open-Source Contributor**  
 
