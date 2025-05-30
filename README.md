@@ -36,6 +36,18 @@ Passionate about building secure systems and automating offensive security workf
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)  
 
 ---  
+## **Projects**
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Clustr](https://github.com/occupyashanti/Clustr) | High-efficiency compression algorithm using RLE + ANS with neural adaptive thresholding. | Python, C, Bash |
+| [DoctorDroid](https://github.com/occupyashanti/DoctorDroid) | AI-driven chatbot for symptom triage and health advice using NLP. | Python, Flask, NLP |
+| [QuickDrop](https://github.com/occupyashanti/QuickDrop) | Crowdsourced delivery platform with real-time tracking. | Django, React, PostgreSQL |
+| [Hermes](https://github.com/occupyashanti/Hermes) | Security model using RL, pattern recognition, and computer vision. | Python, OpenCV, PyTorch |
+| [Juggernaut](https://github.com/occupyashanti/Juggernaut) | Password cracking tool with AI-guided attacks and multi-arch support. | C++, Python, CUDA |
+| [WiFi Portal](https://github.com/occupyashanti/WiFi-Portal) | Captive portal with Safaricom STK push integration and voucher system. | Flask, SQLite, Daraja API |
+
+---
 
 ## **GitHub Analytics**  
 
