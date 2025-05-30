@@ -3,9 +3,8 @@
 ---
 
 # Hi, I’m **Kevin O'Hare** (Mino)  
-(aka occupyashanti)
 ![madddd](./madddd.jpg)  
-*My Guy Pluto in all his glory.*
+
 ###  **Security Engineer | Full-Stack Developer | Open-Source Contributor**  
 
 Passionate about building secure systems and automating offensive security workflows.  
