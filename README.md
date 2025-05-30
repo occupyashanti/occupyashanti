@@ -36,8 +36,7 @@ Passionate about building secure systems and automating offensive security workf
 ---
 
 ## **GitHub Analytics**
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=occupyashanti\&show_icons=true\&hide_border=true\&theme=github_dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=occupyashanti\&layout=compact\&hide_border=true\&theme=github_dark) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=occupyashanti&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ---
