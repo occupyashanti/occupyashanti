@@ -12,9 +12,12 @@ Passionate about building secure systems and automating offensive security workf
 ---  
 
 ## **Current Focus**  
--  **Building:** [Clustr](https://github.com/occupyashanti/Clustr) – *Next level compression Algorithm*  
--  **Learning:** Django, React, & Advanced Bash Automation  
--  **Interests:** Web App Security, Cloud Pentesting, DevSecOps  
+| Area          | Description                                                                                                                                                  |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Building**  | [Clustr](https://github.com/occupyashanti/Clustr) – a next-gen compression algorithm blending entropy and run-length techniques for ultra-efficient storage. |
+| **Learning**  | Deep-diving into Django (web backend), React (frontend UI), and Bash automation for security tooling.                                                        |
+| **Exploring** | Advanced web application security, DevSecOps workflows, and cloud pentesting strategies.                                                                     |
+| **Vision**    | Building intelligent systems that blur the line between automation and human-level offensive security insight.                                               |
 
 ---  
 
