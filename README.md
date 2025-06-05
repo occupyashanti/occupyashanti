@@ -2,7 +2,7 @@
 
 # Hi, I’m **Kevin O'Hare** (Mino)
 
-![madddd](./madddd.jpg)
+![madddd](./ashanti.png)
 
 ### **Security Engineer | Full-Stack Developer | Open-Source Contributor**
 
