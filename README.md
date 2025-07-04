@@ -65,11 +65,6 @@ Passionate about building secure systems and automating offensive security workf
 
 ---
 
-### **Fun Fact:**
-
-> *"When I’m not hacking CTFs, I’m probably automating something that shouldn’t be automated."*
-
----
 
 ### **Looking For?**
 
