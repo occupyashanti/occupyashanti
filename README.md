@@ -1,32 +1,36 @@
 
+---
 
 # Hi, I’m **Kevin O'Hare** (Mino)
+
 ### **Security Engineer | Full-Stack Developer | Open-Source Contributor**
 
-Passionate about building secure systems and automating offensive security workflows.
+Passionate about designing secure systems, automating offensive security workflows, and pushing the limits of code and infrastructure.
 
 ---
 
 ## **Current Focus**
 
-| Area          | Description                                                                                                                                                  |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Building**  | [Clustr](https://github.com/occupyashanti/Clustr) – a next-gen compression algorithm blending entropy and run-length techniques for ultra-efficient storage. |
-| **Learning**  | Deep-diving into Django (web backend), React (frontend UI), and Bash automation for security tooling.                                                        |
-| **Exploring** | Advanced web application security, DevSecOps workflows, and cloud pentesting strategies.                                                                     |
-| **Vision**    | Building intelligent systems that blur the line between automation and human-level offensive security insight.                                               |
+| Area          | Description                                                                                                                                |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Building**  | [Clustr](https://github.com/occupyashanti/Clustr) – a next-gen compression algorithm combining entropy coding and run-length strategies.   |
+| **Learning**  | Advancing backend design with Django, polishing React UI workflows, and deepening Bash scripting for automated security ops.               |
+| **Exploring** | Web application security at scale, DevSecOps pipelines, and advanced cloud pentesting across AWS and containerized infrastructure.         |
+| **Vision**    | Creating autonomous systems that fuse threat intelligence with offensive automation, blurring the human-machine boundary in cybersecurity. |
 
 ---
 
 ## **Projects**
 
-| Project                                                     | Description                                                                              | Tech Stack                |
-| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------- |
-| [Clustr](https://github.com/occupyashanti/Clustr)           | High-efficiency compression algorithm using RLE + ANS with neural adaptive thresholding. | Python, C, Bash           |
-| [QuickDrop](https://github.com/occupyashanti/QuickDrop)     | Crowdsourced delivery platform with real-time tracking.                                  | Django, React, PostgreSQL |
-| [Hermes](https://github.com/occupyashanti/Hermes)           | Security model using RL, pattern recognition, and computer vision.                       | Python, OpenCV, PyTorch   |
-| [Juggernaut](https://github.com/occupyashanti/Juggernaut)   | Password cracking tool with AI-guided attacks and multi-arch support.                    | C++, Python, CUDA         |
-| [WiFi Portal](https://github.com/occupyashanti/SafariFi-)   | Captive portal with Safaricom STK push integration and voucher system.                   | Flask, SQLite, Daraja API |
+| Project                                                   | Description                                                                                   | Tech Stack                |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------- |
+| [Clustr](https://github.com/occupyashanti/Clustr)         | High-efficiency compression using RLE + ANS with neural adaptive thresholding.                | Python, C, Bash           |
+| [nam](https://github.com/occupyashanti/nam)               | Fraud detection engine using anomaly detection techniques on financial transactions.          | PyTorch, Scikit-learn     |
+| [echo](https://github.com/occupyashanti/echo)             | End-to-end encrypted peer-to-peer audio pipeline. Built in Rust for privacy-first voice chat. | Rust, CPAL, ChaCha20      |
+| [QuickDrop](https://github.com/occupyashanti/QuickDrop)   | Crowdsourced delivery platform with real-time package tracking and marketplace logic.         | Django, React, PostgreSQL |
+| [Hermes](https://github.com/occupyashanti/Hermes)         | Offensive security model leveraging RL, CV, and threat pattern analysis.                      | Python, OpenCV, PyTorch   |
+| [Juggernaut](https://github.com/occupyashanti/Juggernaut) | Password cracker with AI-augmented attacks and cross-architecture support.                    | C++, CUDA, Python         |
+| [WiFi Portal](https://github.com/occupyashanti/SafariFi-) | Captive portal system with Safaricom STK push and voucher auth.                               | Flask, SQLite, Daraja API |
 
 ---
 
@@ -62,18 +66,16 @@ Passionate about building secure systems and automating offensive security workf
 
 ---
 
+## **Looking For**
 
-### **Looking For?**
-
-* **Collaborations** on security tools
-* **Advice** on web app pentesting
-* **Speaking opportunities** about offensive security
-
----
-
-**P.S.** My DMs are open for infosec discussions!
+* Collaborations on security and tooling projects
+* Guidance or collaboration in offensive security or secure backend architecture
+* Speaking or writing opportunities in cybersecurity, AI x security, or open-source intelligence
 
 ---
 
+**P.S.** My inbox is always open—whether it’s code, attacks, or wild security theories.
+
 ---
+
 
