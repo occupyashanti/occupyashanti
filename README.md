@@ -1,7 +1,7 @@
 
 ---
 
-# Hi, I’m **Kevin O'Hare** (Mino)
+# Hi, I’m **Kevin OHare** (Mino)
 
 ### **Security Engineer | Full-Stack Developer | Open-Source Contributor**
 
@@ -33,19 +33,7 @@ Passionate about designing secure systems, automating offensive security workflo
 | [WiFi Portal](https://github.com/occupyashanti/SafariFi-) | Captive portal system with Safaricom STK push and voucher auth.                               | Flask, SQLite, Daraja API |
 
 ---
-
-## **GitHub Analytics**
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=occupyashanti\&show_icons=true\&hide_border=true\&theme=github_dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=occupyashanti\&layout=compact\&hide_border=true\&theme=github_dark) |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-
----
-
-## **Contribution Streak**
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=occupyashanti\&theme=dark\&hide_border=true)
-
----
+s
 
 ## **Certifications & Achievements**
 
