@@ -60,10 +60,4 @@ s
 * Guidance or collaboration in offensive security or secure backend architecture
 * Speaking or writing opportunities in cybersecurity, AI x security, or open-source intelligence
 
----
-
-**P.S.** My inbox is always open—whether it’s code, attacks, or wild security theories.
-
----
-
 
