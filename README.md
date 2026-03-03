@@ -1,7 +1,7 @@
 
 ---
 
-# Hi, I’m **Kevin OHare** (Mino)
+# Hi, I’m **Simon Ndunda** 
 
 ### **Security Engineer | Full-Stack Developer | Open-Source Contributor**
 
@@ -47,11 +47,8 @@ s
 ---
 
 ## **Let’s Connect**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/kevin-ohare-737606273)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter)](https://x.com/minosdailyszn)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail)](mailto:occupyashanti@gmail.com)
-
+Email: trevormakau05@gmail.com
+https://www.linkedin.com/in/simon-makau-053b92302?trk=contact-info
 ---
 
 ## **Looking For**
