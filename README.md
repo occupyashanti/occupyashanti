@@ -1,7 +1,7 @@
 
 ---
 
-# Hi, I’m **Simon Ndunda** 
+# Hi, I’m **Vyron Mino** 
 
 ### **Security Engineer | Full-Stack Developer | Open-Source Contributor**
 
@@ -47,8 +47,7 @@ s
 ---
 
 ## **Let’s Connect**
-Email: trevormakau05@gmail.com
-https://www.linkedin.com/in/simon-makau-053b92302?trk=contact-info
+
 ---
 
 ## **Looking For**
