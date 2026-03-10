@@ -1,59 +1,62 @@
+# Vyron Mino
+
+### **Security Engineer | Full-Stack Developer**
+
+**Designing resilient systems, automating offensive workflows, and contributing to open-source.**
+
+[GitHub](https://www.google.com/search?q=https://github.com/occupyashanti) | [LinkedIn](https://www.google.com/search?q=%23) | [Portfolio](https://www.google.com/search?q=%23)
 
 ---
 
-# Hi, I’m **Vyron Mino** 
+## **Focus & Expertise**
 
-### **Security Engineer | Full-Stack Developer | Open-Source Contributor**
-
-Passionate about designing secure systems, automating offensive security workflows, and pushing the limits of code and infrastructure.
-
----
-
-## **Current Focus**
-
-| Area          | Description                                                                                                                                |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Building**  | [Clustr](https://github.com/occupyashanti/Clustr) – a next-gen compression algorithm combining entropy coding and run-length strategies.   |
-| **Learning**  | Advancing backend design with Django, polishing React UI workflows, and deepening Bash scripting for automated security ops.               |
-| **Exploring** | Web application security at scale, DevSecOps pipelines, and advanced cloud pentesting across AWS and containerized infrastructure.         |
-| **Vision**    | Creating autonomous systems that fuse threat intelligence with offensive automation, blurring the human-machine boundary in cybersecurity. |
+* **Building:** [Clustr](https://github.com/occupyashanti/Clustr) – Next-gen compression leveraging entropy coding and RLE strategies.
+* **Engineering:** Scalable backend architectures with **Django**, modern UI workflows in **React**, and automated security ops via **Bash/Python**.
+* **Security:** Web application security at scale, **DevSecOps** pipelines, and cloud penetration testing (**AWS/Containers**).
+* **Vision:** Fusing threat intelligence with offensive automation to build autonomous, self-healing security systems.
 
 ---
 
-## **Projects**
+## **Featured Projects**
 
-| Project                                                   | Description                                                                                   | Tech Stack                |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------- |
-| [Clustr](https://github.com/occupyashanti/Clustr)         | High-efficiency compression using RLE + ANS with neural adaptive thresholding.                | Python, C, Bash           |
-| [nam](https://github.com/occupyashanti/nam)               | Fraud detection engine using anomaly detection techniques on financial transactions.          | PyTorch, Scikit-learn     |
-| [echo](https://github.com/occupyashanti/echo)             | End-to-end encrypted peer-to-peer audio pipeline. Built in Rust for privacy-first voice chat. | Rust, CPAL, ChaCha20      |
-| [QuickDrop](https://github.com/occupyashanti/QuickDrop)   | Crowdsourced delivery platform with real-time package tracking and marketplace logic.         | Django, React, PostgreSQL |
-| [Hermes](https://github.com/occupyashanti/Hermes)         | Offensive security model leveraging RL, CV, and threat pattern analysis.                      | Python, OpenCV, PyTorch   |
-| [Juggernaut](https://github.com/occupyashanti/Juggernaut) | Password cracker with AI-augmented attacks and cross-architecture support.                    | C++, CUDA, Python         |
-| [WiFi Portal](https://github.com/occupyashanti/SafariFi-) | Captive portal system with Safaricom STK push and voucher auth.                               | Flask, SQLite, Daraja API |
+#### 🛡️ **Security & Intelligence**
 
----
-s
+* **[Hermes](https://github.com/occupyashanti/Hermes)** | Offensive model using RL and CV for threat pattern analysis. *(Python, OpenCV, PyTorch)*
+* **[Juggernaut](https://github.com/occupyashanti/Juggernaut)** | AI-augmented password cracker with cross-architecture support. *(C++, CUDA, Python)*
+* **[nam](https://github.com/occupyashanti/nam)** | Anomaly detection engine for financial fraud prevention. *(PyTorch, Scikit-learn)*
 
-## **Certifications & Achievements**
+#### ⚙️ **Systems & Infrastructure**
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_5%25-red?style=for-the-badge\&logo=tryhackme\&logoColor=white)
-![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Active_Player-9fef00?style=for-the-badge\&logo=hackthebox\&logoColor=black)
-![AWS Certified](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Linux Foundation](https://img.shields.io/badge/Linux_Foundation-Introduction_to_Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white)
-![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Certificate-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-Proficient-orange?style=for-the-badge\&logo=burp-suite\&logoColor=white)
+* **[echo](https://github.com/occupyashanti/echo)** | Privacy-first, E2EE peer-to-peer audio pipeline. *(Rust, CPAL, ChaCha20)*
+* **[QuickDrop](https://github.com/occupyashanti/QuickDrop)** | Real-time crowdsourced delivery marketplace. *(Django, React, PostgreSQL)*
+* **[WiFi Portal](https://github.com/occupyashanti/SafariFi-)** | Captive portal with STK push and voucher authentication. *(Flask, Daraja API)*
 
 ---
 
-## **Let’s Connect**
+## **Certifications & Skills**
+
+|  |  |
+| --- | --- |
+| **Offensive** | TryHackMe (Top 5%), Hack The Box (Active), Burp Suite Proficient |
+| **Cloud/Ops** | AWS Certified Cloud Practitioner, Linux Foundation (LF) |
+| **Security** | Google Cybersecurity Professional |
 
 ---
 
-## **Looking For**
+## **Collaborations**
 
-* Collaborations on security and tooling projects
-* Guidance or collaboration in offensive security or secure backend architecture
-* Speaking or writing opportunities in cybersecurity, AI x security, or open-source intelligence
+I am currently looking for:
 
+* **Technical Partnerships:** Collaborative security tooling and open-source projects.
+* **Architecture:** Opportunities in secure backend design and offensive automation.
+* **Thought Leadership:** Speaking or writing engagements regarding **AI x Cybersecurity**.
+
+---
+
+### **Let's Connect**
+
+> [!TIP]
+> I'm always open to discussing DevSecOps, malware analysis, or the future of compression algorithms.
+
+---
 
