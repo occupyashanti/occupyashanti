@@ -19,13 +19,13 @@
 
 ## **Featured Projects**
 
-#### 🛡️ **Security & Intelligence**
+####  **Security & Intelligence**
 
 * **[Hermes](https://github.com/occupyashanti/Hermes)** | Offensive model using RL and CV for threat pattern analysis. *(Python, OpenCV, PyTorch)*
 * **[Juggernaut](https://github.com/occupyashanti/Juggernaut)** | AI-augmented password cracker with cross-architecture support. *(C++, CUDA, Python)*
 * **[nam](https://github.com/occupyashanti/nam)** | Anomaly detection engine for financial fraud prevention. *(PyTorch, Scikit-learn)*
 
-#### ⚙️ **Systems & Infrastructure**
+####  **Systems & Infrastructure**
 
 * **[echo](https://github.com/occupyashanti/echo)** | Privacy-first, E2EE peer-to-peer audio pipeline. *(Rust, CPAL, ChaCha20)*
 * **[QuickDrop](https://github.com/occupyashanti/QuickDrop)** | Real-time crowdsourced delivery marketplace. *(Django, React, PostgreSQL)*
