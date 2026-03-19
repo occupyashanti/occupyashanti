@@ -4,7 +4,7 @@
 
 **Designing resilient systems, automating offensive workflows, and contributing to open-source.**
 
-[GitHub](https://www.google.com/search?q=https://github.com/occupyashanti) | [LinkedIn](https://www.google.com/search?q=%23) | [Portfolio](https://www.google.com/search?q=%23)
+[GitHub](https://www.google.com/search?q=https://github.com/occupyashanti) | [LinkedIn](https://www.linkedin.com/in/kevin-ohare-737606273/) 
 
 ---
 
